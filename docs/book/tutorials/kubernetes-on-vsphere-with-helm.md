@@ -70,7 +70,7 @@ helm repo add vsphere-cpi https://kubernetes.github.io/cloud-provider-vsphere
 helm repo update
 ```
 
-See [help repo](https://helm.sh/docs/helm/helm_repo/) for command documentation.
+See [helm repo](https://helm.sh/docs/helm/helm_repo/) for command documentation.
 
 ## Deploying vSphere CPI for Simple Configurations
 
